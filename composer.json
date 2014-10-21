@@ -1,6 +1,6 @@
 {
-	"name": "laravel/laravel",
-	"description": "The Laravel Framework.",
+	"name": "justdevelop/test",
+	"description": "The Laravel Framework with some plugins/libraries",
 	"keywords": ["framework", "laravel"],
 	"license": "MIT",
 	"require": {
