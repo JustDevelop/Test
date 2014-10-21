@@ -3,6 +3,20 @@
 	"description": "The Laravel Framework.",
 	"keywords": ["framework", "laravel"],
 	"license": "MIT",
+	"repositories": [
+        {
+            "type": "package",
+            "package": {
+                "name": "php-readability/php-readability",
+                "version": "master",
+                "source": {
+                    "url": "https://github.com/feelinglucky/php-readability.git",
+                    "type": "git",
+                    "reference": "master"
+                }
+            }
+        }
+    ],
 	"require": {
 		"laravel/framework": "4.2.*",
 		"php-readability/php-readability": "dev-master"
